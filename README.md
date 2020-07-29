@@ -9,4 +9,4 @@ I am a python developer.
 * [Bashkirtsevich LLC](https://github.com/bashkirtsevich-llc) — portfolio projects;
 * [Pythonc Docker](https://github.com/Pythonic-Dockers) — docker images based on python;
 * [Raspberry Py](https://github.com/raspberry-py) — python projects for RaspberryPi;
-* [Delphi Paskal Archive](https://github.com/delphi-pascal-archive) — archive with very old paskal/delphi projects and rescued code from dead HDD.
+* [Delphi Pascal Archive](https://github.com/delphi-pascal-archive) — archive with very old pascal/delphi projects and rescued code from dead HDD.
