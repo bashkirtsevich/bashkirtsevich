@@ -1,6 +1,6 @@
 ## Hi! I'm Dmitriy Bashkirtsev
 
-I am a python developer. [My portfolio](https://bashkirtsevich.github.io/).
+[I am a python developer.](https://bashkirtsevich.github.io/)
 
 [My gists](https://gist.github.com/bashkirtsevich).
 
