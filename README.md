@@ -2,6 +2,8 @@
 
 I am a python developer. [My portfolio](https://bashkirtsevich.github.io/).
 
+[My gists](https://gist.github.com/bashkirtsevich).
+
 ### My GitHub organizations
 
 * [Bashkirtsevich LLC](https://github.com/bashkirtsevich-llc) — portfolio projects;
