@@ -10,3 +10,7 @@
 * [Pythonc Docker](https://github.com/Pythonic-Dockers) — docker images based on python;
 * [Raspberry Py](https://github.com/raspberry-py) — python projects for RaspberryPi;
 * [Delphi Pascal Archive](https://github.com/delphi-pascal-archive) — archive with very old pascal/delphi projects and rescued code from dead HDD.
+
+
+___
+![My github stats](https://github-readme-stats.vercel.app/api?username=bashkirtsevich&show_icons=true)
