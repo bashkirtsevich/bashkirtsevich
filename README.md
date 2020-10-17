@@ -13,4 +13,4 @@
 
 
 ___
-![My github stats](https://github-readme-stats.vercel.app/api?username=bashkirtsevich&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=bashkirtsevich&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashkirtsevich)](https://github.com/anuraghazra/github-readme-stats)
